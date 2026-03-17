@@ -1,6 +1,7 @@
 Intelligent Recommendation System
 
 Overview
+
 This project utilizes machine learning to build a content-based recommendation system that suggests products based on user input.
 
 ---
@@ -21,6 +22,7 @@ Features
 ---
 
 How to Run
+
 pip install pandas scikit-learn
 
 python Main. py
